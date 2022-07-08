@@ -4,10 +4,17 @@
 ### Context
 - [Concept](#concept)
   - [Context](#context)
+    - [Bash File For Windows OS Installed In New Machine](#bash-file-for-windows-os-installed-in-new-machine)
     - [Simple Home Food Stock Check WebApp](#simple-home-food-stock-check-webapp)
     - [Tweeter as Diary](#tweeter-as-diary)
     - [MQTT Messaging Protocol](#mqtt-messaging-protocol)
     - [RSS Feed WebApp](#rss-feed-webapp)
+
+#### Bash File For Windows OS Installed In New Machine
+- This concept is came from my frequent of formatting work machine and need to install some specific file
+- Things may archive or learned: 
+  - Install apps that I daily use
+  - Bash script 
 
 #### Simple Home Food Stock Check WebApp
 - This concept is came from my mother where need to keep track of every food that content expiry date or to check the freshness of fresh food
